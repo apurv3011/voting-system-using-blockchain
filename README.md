@@ -1,5 +1,4 @@
 # Aadhaar Voting
-Project implemented as part of Rajasthan Hackathon
 
 ## Description
 
